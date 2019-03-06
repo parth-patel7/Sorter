@@ -1,0 +1,133 @@
+
+./pointersorter "thing stuff otherstuff blarp"
+thing
+stuff
+otherstuff
+blarp
+
+
+./pointersorter "thing1stuff3otherstuff,blarp"
+thing
+stuff
+otherstuff
+blarp
+
+
+./pointersorter "aand AAnd Aand aAnd"
+AAnd
+Aand
+aAnd
+aand
+
+
+./pointersorter "zounds marmosets zoo march energy"
+zounds
+zoo
+marmosets
+march
+energy
+
+
+./pointersorter "2134"
+
+
+./pointersorter "APPLE123ZEBRA567"
+ZEBRA
+APPLE
+
+
+./pointersorter ";/.,./;<><>"
+
+
+./pointersorter qwerty
+qwerty
+
+
+./pointersorter dafgkn wodkagf
+Please print a usable string 
+
+
+./pointersorter "sladkgn"
+sladkgn
+
+
+./pointersorter "fbvd"
+fbvd
+
+
+./pointersorter "catpoa cat Cat CAt CAT"
+CAT
+CAt
+Cat
+catpoa
+cat
+
+
+./pointersorter "CAT CAt Cat cat catpoa"
+CAT
+Cat
+CAt
+catpoa
+cat
+
+
+./pointersorter "Cat catpoa CAt cat CAT"
+CAT
+CAt
+Cat
+catpoa
+cat
+
+
+./pointersorter ""
+
+
+./pointersorter """"
+
+
+./pointersorter "Apple ApplE"
+ApplE
+Apple
+
+
+./pointersorter "ApplE Apple"
+ApplE
+Apple
+
+
+./pointersorter "apple apple"
+apple
+apple
+
+
+./pointersorter "a b c"
+c
+b
+a
+
+
+./pointersorter "c b a"
+c
+b
+a
+
+
+./pointersorter "A B C"
+C
+B
+A
+
+
+./pointersorter "C B A"
+C
+B
+A
+
+
+./pointersorter "C c B a A b"
+C
+B
+A
+c
+b
+a
